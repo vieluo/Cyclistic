@@ -2,6 +2,8 @@
 A show case project from Google Data Analytics Professional Certificate.
 
 The data used in this case study is sourced from Motivate International Inc under [this agreement.](https://ride.divvybikes.com/data-license-agreement)
+
+This analysis is conducted by SQL.
 ## Introduction
 Welcome to the Cyclistic bike-share analysis case study! In this case study, you will perform many real-world tasks of a junior
 data analyst. You will work for a fictional company, Cyclistic, and meet different characters and team members. 
